@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30907.101
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ZombieGamemode", "ZombieGamemode.csproj", "{0ACA59BB-4F98-4132-93C2-E0557EAD10F0}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ZomebieGamemodeServer", "ZomebieGamemodeServer\ZomebieGamemodeServer.csproj", "{9BAB2186-C692-4BBA-BAFF-07E31AEE58BA}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{0ACA59BB-4F98-4132-93C2-E0557EAD10F0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0ACA59BB-4F98-4132-93C2-E0557EAD10F0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0ACA59BB-4F98-4132-93C2-E0557EAD10F0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0ACA59BB-4F98-4132-93C2-E0557EAD10F0}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9BAB2186-C692-4BBA-BAFF-07E31AEE58BA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9BAB2186-C692-4BBA-BAFF-07E31AEE58BA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9BAB2186-C692-4BBA-BAFF-07E31AEE58BA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9BAB2186-C692-4BBA-BAFF-07E31AEE58BA}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {FF145504-9AE4-4C28-9E1A-76907B961161}
+	EndGlobalSection
+EndGlobal
